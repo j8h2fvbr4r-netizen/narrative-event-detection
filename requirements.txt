@@ -1,0 +1,8 @@
+transformers<5.0
+torch
+datasets
+pytorch-crf
+evaluate
+seqeval
+pandas
+numpy
