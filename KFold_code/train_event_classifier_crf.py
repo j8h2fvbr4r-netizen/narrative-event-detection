@@ -2,7 +2,7 @@
 Event classification: BERT/RoBERTa + CRF token classifier, 5-fold CV.
 
 Converted from event_classification_final_fixed_crf.ipynb to run as a
-batch job on Habrok (or any Slurm cluster). The model, the CRF trainer,
+batch job on any Slurm cluster. The model, the CRF trainer,
 the tokenization/label-alignment logic, and the metrics are unchanged
 from the notebook.
 
